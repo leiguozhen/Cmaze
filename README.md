@@ -3,3 +3,7 @@
 ## Run
 
 ![](Run.PNG)
+
+## AutoRun
+
+![](autoRun.PNG)
